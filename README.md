@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Desarrollador full stack con 3 años de experiencia, he trabajado con tecnologías como NestJs, SpringBoot, Angular, MongoDB, AWS, entre otras
 <!--
 **DevArmando-hub/DevArmando-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
